@@ -69,7 +69,12 @@
       }
     }
   },
-  "Netflix": {},
+  "Netflix": {
+    "Background": {
+      "value": "#2e2727",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
