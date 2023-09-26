@@ -69,10 +69,12 @@
       }
     }
   },
+  "Netflix": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Netflix"
     ]
   }
 }
